@@ -16,5 +16,7 @@ In this demonstration, we create an Orders screen inside the Yandex Market appli
 
 ### Sample Orders Screen Layout
 
+<img title="a title" alt="Alt text" src="source.jpg">
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
